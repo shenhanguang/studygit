@@ -1,1 +1,1 @@
-add a new file study.txt
+今天第一次学习git分布式版本控制系统
