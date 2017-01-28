@@ -4,3 +4,4 @@ Git is my first study
 add new the four line
 add new the five line
 the name is readme.txt
+增加一条汉语记录
